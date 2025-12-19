@@ -117,7 +117,9 @@ Uses Mistral-7B (HuggingFace) + LangChain to understand natural language and orc
 1. Install
 ```bash
 git clone https://github.com/Sharieff-Suhaib/Function-Calling-LLM-Agent-for-Clinical-Workflow-Automation.git
+```
 cd into the folder and in terminal run the below command
+```bash
 pip install -r requirements.txt
 ```
 
