@@ -116,14 +116,16 @@ Uses Mistral-7B (HuggingFace) + LangChain to understand natural language and orc
 
 1. Install
 ```bash
-git clone https://github.com/Sharieff-Suhaib/ioc-assignment.git
-cd ioc-assignment
+git clone https://github.com/Sharieff-Suhaib/Function-Calling-LLM-Agent-for-Clinical-Workflow-Automation.git
+cd into the folder and in terminal run the below command
 pip install -r requirements.txt
 ```
 
 2. Configure
 ```bash
 API_KEY=hf_your_key_here
+
+Get your free API key at:  https://huggingface.co/settings/tokens
 ```
 
 3. Run
